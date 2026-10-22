@@ -40,7 +40,7 @@ body {
 .title span:nth-child(7n + 3) { color: #ba68c8; }
 .title span:nth-child(7n + 4) { color: #81c784; }
 .title span:nth-child(7n + 5) { color: #e57373; }
-.title span:nth-child(7n + 6) { color: #7986cb; }
+.title span:nth-child(7n + 6) { color: #64b5f6; }
 .title span:nth-child(7n + 7) { color: #ffb74d; }
 
 .game-container {
